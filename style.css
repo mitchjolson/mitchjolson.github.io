@@ -1,0 +1,111 @@
+html {
+	height: 100%;
+}
+
+body {
+	color: #ffffff;
+	font-family: arial;
+	background-image: url("background.png");
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+}
+
+#content-name {
+	text-align: center;
+	font-size: 56px;
+}	
+
+#content-contact {
+	text-align: center;
+	font-size: 16px;
+}
+
+#content-intro {
+	margin: auto;
+	text-align: center;
+	font-size: 17px;
+	font-style: italic;
+	max-width: 900px;
+	padding: 10px;
+}
+
+#tech-skills {
+	margin: auto;
+	text-align: left;
+	font-size: 22px;
+	font-style: bold;
+	max-width: 900px;
+	padding-top: 30px;
+}
+
+#skills {
+	margin: auto;
+	text-align: left;
+	font-size: 17px;
+	max-width: 900px;
+}
+
+#professional-experience {
+	margin: auto;
+	text-align: left;
+	font-size: 22px;
+	font-style: bold;
+	max-width: 900px;
+	padding-top: 35px;
+}
+
+#GTL {
+	margin:auto;
+	text-align: left;
+	font-size: 18px;
+	max-width: 900px;
+	font-style: italic;
+	padding-top: 5px;
+}
+
+.job {
+	margin:auto;
+	text-align:left;
+	max-width: 900px;
+	font-size: 18px
+}
+
+.block-content {
+	margin: auto;
+	text-align: left;
+	max-width: 900px;
+	font-size: 16px;
+	padding-bottom: 5px;
+}
+
+#education {
+	margin: auto;
+	text-align: left;
+	font-size: 22px;
+	font-style: bold;
+	max-width: 900px;
+	padding-top: 25px;
+}
+
+#references {
+	margin: auto;
+	text-align: center;
+	font-size: 17px;
+	font-style: italic;
+	max-width: 900px;
+	padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
